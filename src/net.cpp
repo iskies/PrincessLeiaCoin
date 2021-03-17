@@ -1174,15 +1174,13 @@ void MapPort(bool)
 // The second name should resolve to a list of seed addresses.
 static const char *strMainNetDNSSeed[][2] = {
 	     
-	 {"princessleiaisthebest.space, leiaseeder.princessleiaisthebest.space,"},
-	{"178.62.44.53"},
-	{"138.68.142.143"},
+	 {"princessleiaisthebest.space", "leiaseeder.princessleiaisthebest.space,"},
 	 {NULL, NULL}
 };
 
 static const char *strTestNetDNSSeed[][2] = {
     	     
-	{"princessleiaisthebest.space, leiaseeder.princessleiaisthebest.space"},
+	{"princessleiaisthebest.space", "leiaseeder.princessleiaisthebest.space"},
 	{NULL, NULL}
 };
 
