@@ -1,0 +1,9 @@
+Building Princessleiacoin
+
+See doc/readme-qt.rst for instructions on building Princessleiacoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Princessleiacoin.
+
+See doc/build-*.txt for instructions on building princessleiacoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Princessleiacoin.
