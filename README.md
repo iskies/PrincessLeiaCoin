@@ -10,7 +10,9 @@ Discord
 ---------
 https://discord.gg/gGZXYWnDs3
 
-
+Mining Pool
+-----------
+http://mining.princessleiaisthebest.space/MPOS/public
 
 
 What is Princessleiacoin?
