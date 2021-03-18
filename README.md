@@ -22,7 +22,6 @@ Princessleiacoin is a lite version of Bitcoin using scrypt as a proof-of-work al
  - 2 minute block targets
  - subsidy halves in 900k blocks
  - ~4.9 billion total coins
-.
  - 2500 coins per block
  - 720 blocks to retarget difficulty
 
