@@ -6,6 +6,13 @@ http://www.princessleiacoin.org
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Princessleiacoin Developers
 
+Discord
+---------
+https://discord.gg/gGZXYWnDs3
+
+
+
+
 What is Princessleiacoin?
 ----------------
 
